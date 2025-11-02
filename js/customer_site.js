@@ -95,11 +95,6 @@ const CUSTOMER_SITES = {
         api: 'https://api.ukuapi.com/api.php/provide/vod',
         name: 'U酷资源',
         detail: 'https://api.ukuapi.com',
-    },
-    1080zyk: {
-        api: 'https://api.1080zyku.com/inc/apijson.php/',
-        name: '1080资源',
-        detail: 'https://api.1080zyku.com',
     }
 };
 
