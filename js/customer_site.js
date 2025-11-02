@@ -95,6 +95,20 @@ const CUSTOMER_SITES = {
         api: 'https://api.ukuapi.com/api.php/provide/vod',
         name: 'U酷资源',
         detail: 'https://api.ukuapi.com',
+    },
+    hhzyapi: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '豪华资源',
+        detail: 'https://hhzyapi.com',
+    },
+    subocaiji: {
+        api: 'https://subocaiji.com/api.php/provide/vod',
+        name: '速博资源',
+    },
+    p2100: {
+        api: 'https://p2100.net/api.php/provide/vod',
+        name: '飘零资源',
+        detail: 'https://p2100.net',
     }
 };
 
