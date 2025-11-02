@@ -73,6 +73,33 @@ const CUSTOMER_SITES = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '量子资源',
+    },
+    bdzy: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源',
+    },
+    hongniuzy: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
+        name: '红牛资源',
+    },
+    xinlangaa: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪资源',
+    },
+    ckzy: {
+        api: 'https://ckzy.me/api.php/provide/vod',
+        name: 'CK资源',
+        detail: 'https://ckzy.me',
+    },
+    ukuapi: {
+        api: 'https://api.ukuapi.com/api.php/provide/vod',
+        name: 'U酷资源',
+        detail: 'https://api.ukuapi.com',
+    },
+    1080zyk: {
+        api: 'https://api.1080zyku.com/inc/apijson.php/',
+        name: '1080资源',
+        detail: 'https://api.1080zyku.com',
     }
 };
 
