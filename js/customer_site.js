@@ -20,6 +20,10 @@ const CUSTOMER_SITES = {
         api: 'https://api.ffzyapi.com/api.php/provide/vod',
         name: '非凡影视',
         detail: 'http://ffzy5.tv',
+    },
+        zy360: {
+        api: 'https://360zy.com/api.php/provide/vod',
+        name: '360资源',
     }
 };
 
