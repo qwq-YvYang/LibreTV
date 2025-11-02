@@ -7,6 +7,19 @@ const CUSTOMER_SITES = {
         ruyi: {
         api: 'http://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
+    },
+        bfzy: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风资源',
+    },
+    tyyszy: {
+        api: 'https://tyyszy.com/api.php/provide/vod',
+        name: '天涯资源',
+    },
+    ffzy: {
+        api: 'https://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡影视',
+        detail: 'http://ffzy5.tv',
     }
 };
 
