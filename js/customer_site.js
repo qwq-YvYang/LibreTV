@@ -32,6 +32,23 @@ const CUSTOMER_SITES = {
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
+    },
+    jisu: {
+        api: 'https://jszyapi.com/api.php/provide/vod',
+        name: '极速资源',
+        detail: 'https://jszyapi.com',
+    },
+    dbzy: {
+        api: 'https://dbzy.tv/api.php/provide/vod',
+        name: '豆瓣资源',
+    },
+    mozhua: {
+        api: 'https://mozhuazy.com/api.php/provide/vod',
+        name: '魔爪资源',
+    },
+    mdzy: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '魔都资源',
     }
 };
 
